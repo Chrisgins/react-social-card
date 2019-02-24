@@ -1,0 +1,25 @@
+{
+  "name": "react-social-card",
+  "version": "1.0.0",
+  "description": "A small project for #100DaysOfCode using React to create a social card component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrisgins/react-social-card.git"
+  },
+  "keywords": [
+    "React",
+    "Social",
+    "Card",
+    "100DaysofCode"
+  ],
+  "author": "gina christians christiansgina@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chrisgins/react-social-card/issues"
+  },
+  "homepage": "https://github.com/Chrisgins/react-social-card#readme"
+}
